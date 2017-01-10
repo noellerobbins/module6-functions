@@ -1,9 +1,10 @@
 # Exercise-3: Calling built-in functions
 
 # Create a variable `my.name` that contains your name
-
+my.name <= "Noelle"
 
 # Create a variable `name.length` that holds how many letters are in your name (use the `nchars()` function)
+name.length <= nchars(my.name)
 
 
 # Print the number of letters in your name
