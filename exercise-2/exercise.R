@@ -24,8 +24,5 @@ DescribeDifference <- function(string.1, string.2){
   }
 }
 
-
-
-
 # Pass two strings of different lengths to your `DescribeDifference` function
 DescribeDifference("hello", "dawg")
